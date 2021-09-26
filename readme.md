@@ -8,3 +8,5 @@ I have done this project with help of above article.
 * Once the discriminator model is unable to discriminate any more properly(50%), we can say that our generator model is generating very good image.
 
 Explanation of the codes are commented inside notebook.
+
+There are 25 images inside **generated_images** directory, which has been generated with our model.
